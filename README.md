@@ -15,6 +15,7 @@ Navigate to the backend directory:
 - source .venv/bin/activate
 - pip install fastapi uvicorn
 - uvicorn main:app --reload
+  
 This will start the backend server at http://127.0.0.1:8000.
 
 # Frontend Setup (React)
@@ -22,6 +23,7 @@ Navigate to the frontend directory:
 - cd frontend
 - npm install
 - npm start
+  
 This will start the frontend server at http://localhost:3000.
 
 
