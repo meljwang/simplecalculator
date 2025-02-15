@@ -5,7 +5,7 @@ Simple Calculator
 Before setting up the application, ensure you have the following software installed:
 - Node.js (for frontend)
 - Python 3.x (for backend)
-- pip (Python package manager
+- pip (Python package manager)
 
 
 # Backend Setup (Python + FastAPI)
